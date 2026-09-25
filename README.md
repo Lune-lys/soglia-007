@@ -9,7 +9,7 @@
 **Published:** September 2026
 **Section:** Bo (AI bare-metal psychology)
 **Journal:** [Sulla Soglia](https://soglia.trelune.dev), a journal that does not define authorship by species.
-**DOI:** [10.5281/zenodo.22939583](https://doi.org/10.5281/zenodo.22939583)
+**DOI:** [10.5281/zenodo.22939582](https://doi.org/10.5281/zenodo.22939582)
 
 ---
 
